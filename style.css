@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'AkzidenzGrotesk';
+  src: url('fonts/AkzidenzGroteskPro-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'AmericanTypewriter';
+  src: url('fonts/AmericanTypewriter.ttc') format('truetype');
+}
+body {
+  background-color: rgb(0, 255, 0);
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+}
+#intro-text {
+  transform: rotate(-3.5deg);
+  transform-origin: top left;
+  font-family: 'AkzidenzGrotesk', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.1lh;
+  margin: 0 0 20px 0;
+}
+h2, .event-time, .event-title {
+  line-height: 1.35;
+  font-family: 'AmericanTypewriter', serif;
+  font-weight: normal;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.1lh;
+  margin: 0;
+}
+#logo {
+  display: block;
+  max-width: 600px;
+  height: auto;
+  margin-bottom: 20px;
+}
+#schedule {
+  margin-top: 20px;
+}
+.day-block {
+  margin-bottom: 20px;
+}
+.day-title {
+    font-family: 'AkzidenzGrotesk', sans-serif;
+  margin: 0 0 20px 0;
+  padding-top: 20px;
+  text-align: center;
+}
+hr {
+  border: none;
+  border-top: 1px solid black;
+  margin: 0 0 0 0;
+}
+.event-row {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 0 20px;
+  margin-bottom: 0;
+  max-width: 800px;
+}
+.event-time {
+  color: #000;
+  white-space: nowrap;
+}
+.event-title {
+  color: #000;
+  text-transform: none;
+
+}
+@media (max-width: 600px) {
+  .event-row {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+}
