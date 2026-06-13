@@ -26,22 +26,109 @@ h2, .event-time, .event-title {
   line-height: 1.35;
   font-family: 'AmericanTypewriter', serif;
   font-weight: normal;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: uppercase;
-  letter-spacing: 0.1lh;
+  letter-spacing: 0.05lh;
   margin: 0;
+}
+#logo-wrap {
+  position: relative;
+  margin-bottom: 20px;
+  width: 30vw;
+  max-width: 800px;
+}
+#butterfly {
+  position: absolute;
+  top: 0;
+  left: 66%;
+  width: 30%;
+  z-index: 10;
+  pointer-events: none;
+  display: none;
+}
+#butterfly2 {
+  position: absolute;
+  top: -10%;
+  left: 40%;
+  width: 60%;
+  z-index: 10;
+  pointer-events: none;
+  transform: scaleX(-1);
 }
 #logo {
   display: block;
-  max-width: 600px;
+  width: 30vw;
+  max-width: 800px;
+  max-height: 60vh;
   height: auto;
-  margin-bottom: 20px;
 }
-#schedule {
-  margin-top: 20px;
+#logo-caption {
+  font-family: 'AmericanTypewriter', serif;
+  font-size: 25px;
+  font-weight: normal;
+  color: orangered;
+  transform-origin: top left;
+  white-space: nowrap;
+  margin: 20px 0;
+}
+.accordion-toggle {
+  all: unset;
+  cursor: pointer;
+  font-family: 'AkzidenzGrotesk', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1lh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 20px 0;
+  background-color: white;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  box-sizing: border-box;
+}
+#participants-toggle {
+  border-top: none;
+}
+.accordion-toggle::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-left: 11px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+  flex-shrink: 0;
+  transition: transform 0.2s;
+  transform-origin: center center;
+}
+.accordion-toggle.open {
+  border-bottom: none;
+}
+.accordion-toggle.open::before {
+  transform: rotate(90deg);
+}
+#schedule,
+#participants-list {
+  display: none;
+  background-color: white;
+  padding-left:20px;
+}
+.participant {
+  font-family: 'AmericanTypewriter', serif;
+  font-size: 18px;
+  line-height: 1.35;
+    letter-spacing: 0.05lh;
 }
 .day-block {
   margin-bottom: 20px;
+}
+.day-block.past {
+  opacity: 0.4;
 }
 .day-title {
     font-family: 'AkzidenzGrotesk', sans-serif;
@@ -74,5 +161,11 @@ hr {
   .event-row {
     grid-template-columns: 1fr;
     gap: 0;
+  }
+  #logo-wrap {
+    width: 60vw;
+  }
+  #logo {
+    width: 60vw;
   }
 }

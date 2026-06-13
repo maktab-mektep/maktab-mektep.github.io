@@ -1,3 +1,10 @@
+document.getElementById('accordion-toggle').addEventListener('click', () => {
+  const toggle = document.getElementById('accordion-toggle');
+  const schedule = document.getElementById('schedule');
+  const isOpen = toggle.classList.toggle('open');
+  schedule.style.display = isOpen ? 'block' : 'none';
+});
+
 fetch('schedule.md')
   .then(r => r.text())
   .then(md => {
@@ -10,7 +17,17 @@ fetch('schedule.md')
       if (line.startsWith('## ')) {
         if (inDay) html += '</div>';
         const title = line.replace('## ', '').toUpperCase();
-        html += `<div class="day-block"><hr><h2 class="day-title">${title}</h2>`;
+        const dateMatch = title.match(/(\d+)\.(\d+)/);
+        let pastClass = '';
+        if (dateMatch) {
+          const day = parseInt(dateMatch[1]);
+          const month = parseInt(dateMatch[2]);
+          const today = new Date();
+          const eventDate = new Date(today.getFullYear(), month - 1, day);
+          eventDate.setHours(23, 59, 59);
+          if (eventDate < today) pastClass = ' past';
+        }
+        html += `<div class="day-block${pastClass}">${inDay ? '<hr>' : ''}<h2 class="day-title">${title}</h2>`;
         inDay = true;
       } else if (line.startsWith('- ')) {
         const content = line.replace('- ', '');
