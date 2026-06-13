@@ -117,6 +117,8 @@ h2, .event-time, .event-title {
   display: none;
   background-color: white;
   padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
 }
 .participant {
   font-family: 'AmericanTypewriter', serif;
@@ -163,9 +165,9 @@ hr {
     gap: 0;
   }
   #logo-wrap {
-    width: 60vw;
+    width: 70vw;
   }
   #logo {
-    width: 60vw;
+    width: 70vw;
   }
 }
