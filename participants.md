@@ -1,32 +1,19 @@
 # Participants
 
-- Asel Yeszhanova
-- Lada Hršak
-- Timur Akhmetov
+- Beksultan Bagytzhan
+- Dennis Tsin
+- Adelya Baidibekova
+- Aknazar Medeu
+- Vetlina Burmistrova
+- Ezoza Zokirjonova
+- Zilola Kaxramonova
+- Shaima Gulbekova
+- Selbi Zhumayeva
+- Oxana Kapishnikova
+- Aaruke Omur
+- Alp Demiroğlu
+- Alexandra Zalivako
+- Dariya Cheremisina
+- Santiago Barragan Carranza
+- Xinyi Alice Lin
 - Margaux Johnstone
-- Furqat Palvan-Zade
-- Santiago Barragán
-- Azhar Altynsaka
-- Baqhyt Khasenova
-- Assel Akhmetzhanova
-- Ayagoz Nurmanova
-- Karlygash Bissembayeva
-- Alp Demiroglu
-- Felipe Correa
-- Anna Pashinska
-- Tamiris Batalova
-- Daria Cheremisina
-- Gaini Sagidullayeva
-- Makar Tereshin
-- Alice Beaumont
-- María Páez González
-- Brendon Carlin
-- Alia Bekova
-- Aidos Nurmagambetov
-- Sasha Petrov
-- Yuki Tanaka
-- Omar Farouk
-- Elena Vasilieva
-- Nadia Okonkwo
-- Rafael Moreno
-- Zara Hussain

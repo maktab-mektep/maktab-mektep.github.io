@@ -11,6 +11,7 @@ fetch('participants.md')
     const container = document.getElementById('participants-list');
     const names = md.split('\n')
       .filter(l => l.startsWith('- '))
-      .map(l => l.replace('- ', ''));
+      .map(l => l.replace('- ', ''))
+      .sort();
     container.innerHTML = `<div class="participant">${names.join(', ')}</div>`;
   });
