@@ -1,19 +1,24 @@
 # Participants
 
-- Beksultan Bagytzhan
-- Dennis Tsin
+- Aruuke Omur
+- Gaini Sagidullayeva
 - Adelya Baidibekova
 - Aknazar Medeu
-- Vetlina Burmistrova
-- Ezoza Zokirjonova
-- Zilola Kaxramonova
-- Shaima Gulbekova
-- Selbi Zhumayeva
-- Oxana Kapishnikova
-- Aaruke Omur
-- Alp Demiroğlu
 - Alexandra Zalivako
+- Alp Demiroğlu
+- Beksultan Bagytzhan
 - Dariya Cheremisina
-- Santiago Barragan Carranza
-- Xinyi Alice Lin
+- Denis Tsinn
+- Ezoza Zokirjonova
 - Margaux Johnstone
+- Oksana Kapishnikova
+- Santiago Barragan Carranza
+- Selbi Jumayeva
+- Shaima Gulbekova
+- Vetlina Burmistrova
+- Xinyi Alice Lin
+- Zilola Kaxramonova
+- Makar Terёshin
+- Mariya Zhassan
+- Alexandra Faleichik
+- Safronov Artur
