@@ -62,64 +62,71 @@
 
 ## DAY 9, 18.6
 
-- 09:00–10:00 | Zine: First Iteration. With Margaux
-- 10:00–11:00 | Design session depending on project progress
-- 11:00–13:00 | Construction
+- 09:00–09:30 | Morning reflection. Planning the day ahead
+- 09:30–10:30 | Zine workshop with Margaux
+- 10:30–13:00 | Working session
 - 13:00–14:00 | Lunch
 - 14:00–15:00 | Community design. Online lecture by Anna Pashinska (Metalab, UA)
-- 15:00–18:00 | Design & Construction in teams
+- 15:00–21:00 | Working session
 
 ## DAY 10, 19.6
 
-- 09:00–10:00 | Morning reflection. Planning the day ahead
-- 10:00–13:00 | Construction & design sessions in teams
+- 09:00–09:30 | Morning reflection. Planning the day ahead
+- 09:30–13:00 | Working session
 - 13:00–14:00 | Lunch
 - 14:00–15:00 | Project Mayhem: Dogs, Dolphins & Data. Online lecture by Tamiris Batalova (visiting critic in the Architectural Association, UCL Bartlett and Royal College of Art)
+- 15:00–21:00 | Working session
 
 ## DAY 11, 20.6
 
 - 09:00–10:00 | Morning reflection. Planning the day ahead
-- 10:00–11:00 | Website workshop with Timur Akhmetov, Furqat Palvan-Zade
-- 12:00–13:00 | Public lecture on communities by Asel Yeszhanova. Public screening of Portrait of an Architect: Abdel-Wahid El-Wakil. Q&A with Furqat
+- 10:00–11:00 | Reflections zoom with Lada Hršak
+- 11:00–13:00 | Working session
 - 13:00–14:00 | Lunch
-- 15:00–18:00 | Construction sessions
+- 14:00–20:00 | Working session
+– 20:00–20:30 | Dusts film screening by Selbi
+– 20:30–21:00 | Oksana on her curatorial practice and BiSCA
+- 21:00–22:00 | Public screening of Portrait of an Architect: Abdel-Wahid El-Wakil. Q&A with Furqat
 
 ## DAY 12, 21.6
 
-- 09:00–10:00 | Morning reflection. Planning the day ahead
-- 10:00–12:00 | Printing workshops led by Timur (website), Margaux (zines), Alice (botany gelatin!)
+- 09:00–09:30 | Morning reflection. Planning the day ahead
+- 09:30–13:00 | Working session
 - 13:00–14:00 | Lunch
-- 15:00–18:00 | Construction sessions
+- 14:00–18:00 | Working session
+- 18:00–20:00 | Botany gelatine workshop with Alice
+- 20:00–21:00 | Lecture on communities by Asel Yeszhanova
 
 ## DAY 13, 22.6
 
-- 09:00–10:00 | Morning reflection. Planning the day ahead
-- 10:00–10:30 | Seams of the Middle: Presentation on infrastructure in Central Asia by Alp Demiroglu
-- 10:30–11:30 | Aktau and the Oil industry. Lecture by Karlygash Bissembayeva (Yessenov Uni)
-- 11:30–12:30 | Screenings of two films by Daria Cheremisina: Before the bees are awake, Communal Privacy
-- 12:00–13:00 | Screening of Iceless Horizons: A Speculative Vision for the Caspian Seals (Pusa Caspica). Gaini Sagidullayeva's video essay. ++Quick reflection on professional identity
+- 09:00–09:30 | Morning reflection. Planning the day ahead
+- 09:30–13:00 | Working session
 - 13:00–14:00 | Lunch
-- 15:00–18:00 | Construction sessions
+- 14:00–18:00 | Working session
+- 18:00–19:00 | Films screening by Daria Cheremisina
+- 19:00–20:00 | Seams of the Middle: Presentation on infrastructure in Central Asia by Alp Demiroglu
+- 20:00–21:00 | Screening of Iceless Horizons: A Speculative Vision for the Caspian Seals (Pusa Caspica) by Gaini Sagidullayeva
+
 
 ## DAY 14, 23.6
 
-- 09:00–10:00 | Morning reflection. Planning the day ahead
-- 10:00–13:00 | Construction sessions
+- 09:00–09:30 | Morning reflection. Planning the day ahead
+- 09:30–13:00 | Working session
 - 13:00–14:00 | Lunch
-- 15:00–18:00 | Construction sessions
+- 15:00–21:00 | Working session
 
 ## DAY 15, 24.6
 
-- 09:00–10:00 | Morning reflection. Planning the day ahead
-- 10:00–13:00 | Final construction sessions and exhibition buildup
+- 09:00–09:30 | Morning reflection. Planning the day ahead
+- 09:30–13:00 | Final construction sessions and exhibition buildup
 - 13:00–14:00 | Lunch
-- 15:00–18:00 | Final construction sessions and exhibition buildup
+- 14:00–21:00 | Final construction sessions and exhibition buildup
 
 ## DAY 16, 25.6
 
-- 09:00–10:00 | Morning reflection. Planning the day ahead
-- 10:00–13:00 | Interviews for film and archive
+- 09:00–09:30 | Morning reflection. Planning the day ahead
+- 09:30–13:00 | Interviews for film and archive
 - 13:00–14:00 | Lunch
 - 14:00–15:00 | Me time (getting dressed and ready)
-- 15:00–16:00 | Preparation for the closing celebration (arranging tables, final touches, etc.)
-- 16:00–19:00 | Celebration!
+- 15:00–16:00 | Preparation for the closing celebration
+- 16:00–21:00 | Celebration!
