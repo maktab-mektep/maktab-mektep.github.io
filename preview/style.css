@@ -61,11 +61,27 @@ h2, .event-time, .event-title {
   pointer-events: auto;
   cursor: pointer;
   transform: scaleX(-1);
-  transition: transform 1.4s ease-in, opacity 1.4s ease-in;
 }
 #butterfly2.flew {
-  transform: translate(75vw, -45vh) rotate(30deg) scaleX(-1);
-  opacity: 0;
+  animation: butterfly-away 1.8s ease-in forwards;
+}
+#butterfly2.back {
+  animation: butterfly-back 1.8s ease-out forwards;
+}
+@keyframes butterfly-away {
+  0%   { transform: translate(0, 0) rotate(0) scaleX(-1); opacity: 1; }
+  20%  { transform: translate(-12vw, -6vh) rotate(-6deg) scaleX(-1); }
+  40%  { transform: translate(-24vw, 3vh) rotate(5deg) scaleX(-1); }
+  60%  { transform: translate(-38vw, -5vh) rotate(-5deg) scaleX(-1); opacity: 1; }
+  80%  { transform: translate(-50vw, 2vh) rotate(4deg) scaleX(-1); }
+  100% { transform: translate(-62vw, -3vh) rotate(-4deg) scaleX(-1); opacity: 0; }
+}
+@keyframes butterfly-back {
+  0%   { transform: translate(-62vw, -3vh) rotate(-4deg) scaleX(-1); opacity: 0; }
+  30%  { transform: translate(-42vw, 3vh) rotate(5deg) scaleX(-1); opacity: 1; }
+  60%  { transform: translate(-24vw, -5vh) rotate(-5deg) scaleX(-1); }
+  80%  { transform: translate(-10vw, 3vh) rotate(4deg) scaleX(-1); }
+  100% { transform: translate(0, 0) rotate(0) scaleX(-1); opacity: 1; }
 }
 #logo {
   display: block;

@@ -176,11 +176,16 @@ if (butterfly) {
   butterfly.addEventListener('mouseenter', () => {
     if (away) return;
     away = true;
+    butterfly.classList.remove('back');
     butterfly.classList.add('flew');
     setTimeout(() => {
       butterfly.classList.remove('flew');
-      away = false;
-    }, 5000);
+      butterfly.classList.add('back');
+      setTimeout(() => {
+        butterfly.classList.remove('back');
+        away = false;
+      }, 1800);
+    }, 4000);
   });
 }
 
