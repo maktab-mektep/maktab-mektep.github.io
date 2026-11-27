@@ -169,9 +169,3 @@ document.querySelectorAll('.accordion-panel').forEach(panel => {
     .then(md => renderers[panel.dataset.render](md, panel));
 });
 
-// Spook the butterfly: hover it and it flies up and off, gone until refresh.
-const butterfly = document.getElementById('butterfly2');
-if (butterfly) {
-  butterfly.addEventListener('mouseenter', () => butterfly.classList.add('flew'), { once: true });
-}
-
