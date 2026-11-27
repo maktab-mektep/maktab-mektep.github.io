@@ -184,7 +184,7 @@ if (butterfly) {
       setTimeout(() => {
         butterfly.classList.remove('back');
         away = false;
-      }, 1800);
+      }, 2200);
     }, 4000);
   });
 }
