@@ -1,0 +1,3 @@
+Over the course of two weeks, participants from all the republics of Central Asia worked together and engaged in discussions with invited experts. The school brought together early-career and established practitioners in architecture, contemporary art, science, and the humanities, at different stages of their professional journeys.
+
+Through interdisciplinary research in Aktau, we arrived at the theme of shade—not only as one of architecture's fundamental functions, but also as a broader metaphor. How can shade tell us something about Aktau's architecture and climate, from residential buildings to mobile tent structures? Can it help us better understand the relationships between people, the city, and the surrounding environment?

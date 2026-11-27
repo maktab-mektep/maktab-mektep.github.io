@@ -1,0 +1,1 @@
+We are grateful to our partners—the Rosa Luxemburg Foundation's Central Asia Office and Yessenov University—for their trust and support, and for bringing us together with new friends and like-minded people in Aktau.

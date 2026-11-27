@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maktab Mektep</title>
+  <link rel="preload" href="fonts/AkzidenzGroteskPro-Regular.otf" as="font" type="font/otf" crossorigin>
+  <link rel="preload" href="fonts/AmericanTypewriter.ttc" as="font" type="font/ttc" crossorigin>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="logo-wrap">
+    <img id="logo" src="logo/logo.svg" alt="Logo">
+    <img id="butterfly" src="butterfly.gif" alt="">
+    <img id="butterfly2" src="butterfly2.gif" alt="">
+  </div>
+  <div id="intro-wrap"><span id="intro-text">Maktab–Mektep is a school that brings research and practice together. We advance ecocritical approaches to architecture in Central Asia through collective action. The school is grounded in the principles of environmental justice, inclusion, and the decentralization of knowledge. This is why we run our programs beyond Almaty, Astana, and Tashkent, focusing on smaller cities where the consequences of environmental crises and social inequality are particularly acute.</span></div>
+  <div id="logo-caption">First edition: <a href="https://maps.app.goo.gl/nX8uv4wbT4VppTAu6" target="_blank">Aktau (Kazakhstan)</a><br>June 10–25, 2026</div>
+  <div class="accordion">
+    <button id="film-toggle" class="accordion-toggle open">Film: Mending Shadows by Daria Cheremisina</button>
+    <div id="film-content" class="accordion-panel open" data-src="film.md" data-render="film"></div>
+  </div>
+  <div class="accordion">
+    <button id="aktau-toggle" class="accordion-toggle open">Photos from Aktau (2026)</button>
+    <div id="aktau-carousel" class="accordion-panel open" data-src="aktau-2026.md" data-render="gallery"></div>
+  </div>
+  <div class="accordion">
+    <button class="accordion-toggle open">About</button>
+    <div id="about-content" class="accordion-panel open" data-src="about.md" data-render="paragraphs"></div>
+  </div>
+  <div class="accordion">
+    <button id="participants-toggle" class="accordion-toggle open">Participants</button>
+    <div id="participants-list" class="accordion-panel col-panel open" data-src="participants.md" data-render="columns"></div>
+  </div>
+  <div class="accordion">
+    <button id="exhibition-toggle" class="accordion-toggle open">Final Exhibition: Shadow Ecologies</button>
+    <div id="exhibition-content" class="accordion-panel open" data-src="exhibition.md" data-render="paragraphs"></div>
+  </div>
+  <div class="accordion">
+    <button id="press-toggle" class="accordion-toggle open">Press</button>
+    <div id="press-content" class="accordion-panel open" data-src="press.md" data-render="paragraphs"></div>
+  </div>
+  <div class="accordion">
+    <button id="partners-toggle" class="accordion-toggle open">Partners</button>
+    <div id="partners-content" class="accordion-panel open" data-src="footer.md" data-render="partners"></div>
+  </div>
+  <p id="closing-note" class="about-text">Follow us on <a href="https://www.instagram.com/maktab_mektep" target="_blank" rel="noopener">Instagram</a> for updates. If you'd like to collaborate with us or support the school's activities, we'd love to hear from you. You can find our contact emails in the presentation.</p>
+  <script src="accordions.js"></script></body>
+</html>
