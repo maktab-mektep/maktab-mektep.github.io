@@ -70,17 +70,17 @@ h2, .event-time, .event-title {
 }
 @keyframes butterfly-away {
   0%   { transform: translate(0, 0) rotate(0) scaleX(-1); opacity: 1; }
-  20%  { transform: translate(-12vw, -6vh) rotate(-6deg) scaleX(-1); }
-  40%  { transform: translate(-24vw, 3vh) rotate(5deg) scaleX(-1); }
-  60%  { transform: translate(-38vw, -5vh) rotate(-5deg) scaleX(-1); opacity: 1; }
-  80%  { transform: translate(-50vw, 2vh) rotate(4deg) scaleX(-1); }
-  100% { transform: translate(-62vw, -3vh) rotate(-4deg) scaleX(-1); opacity: 0; }
+  20%  { transform: translate(6vw, -14vh) rotate(6deg) scaleX(-1); }
+  40%  { transform: translate(-5vw, -28vh) rotate(-5deg) scaleX(-1); }
+  60%  { transform: translate(5vw, -42vh) rotate(5deg) scaleX(-1); opacity: 1; }
+  80%  { transform: translate(-4vw, -56vh) rotate(-4deg) scaleX(-1); }
+  100% { transform: translate(3vw, -70vh) rotate(4deg) scaleX(-1); opacity: 0; }
 }
 @keyframes butterfly-back {
-  0%   { transform: translate(-62vw, -3vh) rotate(-4deg) scaleX(-1); opacity: 0; }
-  30%  { transform: translate(-42vw, 3vh) rotate(5deg) scaleX(-1); opacity: 1; }
-  60%  { transform: translate(-24vw, -5vh) rotate(-5deg) scaleX(-1); }
-  80%  { transform: translate(-10vw, 3vh) rotate(4deg) scaleX(-1); }
+  0%   { transform: translate(3vw, -70vh) rotate(4deg) scaleX(-1); opacity: 0; }
+  30%  { transform: translate(-4vw, -48vh) rotate(-4deg) scaleX(-1); opacity: 1; }
+  60%  { transform: translate(5vw, -28vh) rotate(5deg) scaleX(-1); }
+  80%  { transform: translate(-3vw, -10vh) rotate(-4deg) scaleX(-1); }
   100% { transform: translate(0, 0) rotate(0) scaleX(-1); opacity: 1; }
 }
 #logo {
